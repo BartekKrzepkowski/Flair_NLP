@@ -1,2 +1,2 @@
-# Flair_NLP
+# Flair NLP
 Created repo to study Flair Library
